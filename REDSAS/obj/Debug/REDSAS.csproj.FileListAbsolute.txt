@@ -1,0 +1,7 @@
+C:\Users\Furkan\source\repos\REDSAS\REDSAS\bin\Debug\REDSAS.exe.config
+C:\Users\Furkan\source\repos\REDSAS\REDSAS\bin\Debug\REDSAS.exe
+C:\Users\Furkan\source\repos\REDSAS\REDSAS\bin\Debug\REDSAS.pdb
+C:\Users\Furkan\source\repos\REDSAS\REDSAS\obj\Debug\REDSAS.csproj.AssemblyReference.cache
+C:\Users\Furkan\source\repos\REDSAS\REDSAS\obj\Debug\REDSAS.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\source\repos\REDSAS\REDSAS\obj\Debug\REDSAS.exe
+C:\Users\Furkan\source\repos\REDSAS\REDSAS\obj\Debug\REDSAS.pdb
